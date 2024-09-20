@@ -1,0 +1,23 @@
+
+
+
+ body{
+     background-color:AliceBlue;
+     font-family:ariel;	
+}
+
+
+.blue{
+      color:blue;
+      font-size: 32px;	  
+}
+
+
+.big_font{
+	font-size: 64px;
+}
+
+#SpecialStyle{
+	background-color:yellow;
+	border: 2px solid blue;
+}
